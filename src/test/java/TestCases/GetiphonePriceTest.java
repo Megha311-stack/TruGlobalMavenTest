@@ -36,4 +36,11 @@ public class GetiphonePriceTest {
 	 // WebElement addtocart=sr.addToCart();
 	 // addtocart.click();
   }
+	
+	@AfterClass
+	public void closeBrowser()
+	{
+		driver.close();
+	}
+	
 }

@@ -1,2 +1,4 @@
 PageObjects\SearchItem.class
+TestCases\RegisterUserTest.class
+PageObjects\RegisterUserElements.class
 TestCases\GetiphonePriceTest.class
